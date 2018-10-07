@@ -50,7 +50,7 @@ print np.std(scores)
 
 
 
-# part 2 (training data)
+# part 2
 random_state = range(1, 11)
 scores = []
 for r in random_state:
